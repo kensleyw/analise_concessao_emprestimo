@@ -4,6 +4,7 @@ Este projeto é uma solução de Ciência de Dados para o problema de previsão 
 
 ## Detalhes do Aplicativo
 O aplicativo web permite inserir dados do cliente para análise de risco e realiza a predição usando um modelo treinado. Os atributos selecionados e parte dos dados são exibidos para análise.
+![Texto Alternativo](./imagens/print_tela_sistema.png)
 
 ## Estrutura do Projeto
 ```
